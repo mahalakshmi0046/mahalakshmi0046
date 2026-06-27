@@ -57,7 +57,7 @@
 
 ##  Featured Projects
 
-###  [Secure Edge-AI Retrofit Platform](https://github.com/YOUR_USERNAME/YOUR_UNISYS_REPO)
+###  [Secure Edge-AI Retrofit Platform](https://github.com/mahalakshmi0046/YOUR_UNISYS_REPO)
 > **Unisys Innovation Program Year 17 — Phase 2 | Top team / 300+ teams**
 
 Real-time IoT anomaly detection using **LSTM Autoencoders** with **AES-Fernet encryption** for secure edge-to-cloud data pipelines. Flask REST API backend + Three.js digital twin dashboard.
@@ -66,7 +66,7 @@ Real-time IoT anomaly detection using **LSTM Autoencoders** with **AES-Fernet en
 
 ---
 
-###  [CNN-Based Arrhythmia Detection from ECG Images](https://github.com/YOUR_USERNAME/cnn-arrhythmia-detection)
+###  [CNN-Based Arrhythmia Detection from ECG Images](https://github.com/mahalakshmi0046/cnn-arrhythmia-detection)
 > ** 1st Place — Department Mini Project Competition**
 
 Convolutional Neural Network that classifies cardiac arrhythmias from 2D ECG images with a **real-time inference pipeline**: live ECG feed → image preprocessing → CNN classification → alert.
